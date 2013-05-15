@@ -14,7 +14,9 @@ I'm a Graphic Designer of every platform, containing both professional and uniqu
 ***
 
 **Primary Email** ::: *tylerweinbender@gmail.com*
+
 **Personal Phone** :::  *509.781.2999*
+
 **Whereabouts** :::  *Near EWU, Cheney, WA, 99004*
 
 ###Recommendations
