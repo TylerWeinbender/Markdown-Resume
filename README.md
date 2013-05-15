@@ -27,7 +27,7 @@ ckirby@ewu.edu ::: 509.359.3193
 
 ###Related Work
 
-**GetLit! Festivals** ... *Lead Graphics and Layouts* ... 2012-2013
+**GetLit! Festivals** ::: *Lead Graphics and Layouts - 2012-2013*
 
 GetLit! is an annual literature festival funded and supported by Eastern, and the Spokane community. I held a 6 month internship at their offices.
 The main part of my internship was to prepare a 30 page insert for the Inlander. The insert contained all of the festival information, and descriptions
