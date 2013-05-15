@@ -11,11 +11,15 @@ I'm a Graphic Designer of every platform, containing both professional and uniqu
 
 ###Get In Touch
 
+***
+
 **Primary Email** :::  *tylerweinbender@gmail.com*
 **Personal Phone** :::  *509.781.2999*
 **Whereabouts** :::  *Near EWU, Cheney, WA, 99004*
 
 ###Recommendations
+
+***
 
 **Eric Galey** :::  *Media Specialist for the Dean, Personal Advisor*
 
@@ -26,6 +30,8 @@ egaley@ewu.edu ::: 509.359.4773
 ckirby@ewu.edu ::: 509.359.3193
 
 ###Related Work
+
+***
 
 **GetLit! Festivals** ::: *Lead Graphics and Layouts - 2012-2013*
 
@@ -42,6 +48,8 @@ it was my responsibility to manage and run the server. This job has provided me 
 
 ###Education
 
+***
+
 **Eastern Washington University** :::  *2010-Present*
 
 **Tri-Tech Skills Center** :::  *2009-2010*
@@ -49,6 +57,8 @@ it was my responsibility to manage and run the server. This job has provided me 
 **Prosser High School** :::  *2006-2010*
 
 ###Skills
+
+***
 
 **Adobe Illustrator** :::  *5/5*
 
