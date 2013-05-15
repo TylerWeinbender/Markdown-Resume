@@ -1,5 +1,4 @@
 Tyler Weinbender
-######is cool
 ===============
 
 I'm a Graphic Designer of every platform, containing both professional and unique skills. Design is my life, not a goes by without my partaking in some form of creativity. My work is clean, smart, and elegant. I pride myself on being able to tackle any challenge, and create a graphic solution that solves any communicational issue.
