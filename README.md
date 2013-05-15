@@ -11,5 +11,4 @@ I'm a Graphic Designer of every platform, containing both professional and uniqu
 
 ###Get In Touch
 
-####Primary Email
-// tylerweinbender@gmail.com
+####Primary Email ######tylerweinbender@gmail.com
