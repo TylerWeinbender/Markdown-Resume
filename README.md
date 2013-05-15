@@ -8,3 +8,8 @@ I'm a Graphic Designer of every platform, containing both professional and uniqu
 > Visual Communication is the quickest form of relaying information, and I have dedicated myself to mastering the art in order to be as efficient as possible.
 
 ***
+
+###Get In Touch
+
+####Primary Email
+// tylerweinbender@gmail.com
