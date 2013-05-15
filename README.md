@@ -15,7 +15,7 @@ I'm a Graphic Designer of every platform, containing both professional and uniqu
 **Personal Phone** :::  *509.781.2999*
 **Whereabouts** :::  *Near EWU, Cheney, WA, 99004*
 
-###Rommendations
+###Recommendations
 
 **Eric Galey** :::  *Media Specialist for the Dean, Personal Advisor*
 
@@ -40,6 +40,22 @@ ufeonline.org is the website for the United Faculty of Eastern. As of late 2012,
 updating content, controlling email, and managing their server. As soon as I was hired, they migrated from a Shared Hosting service to a VPS server, and 
 it was my responsibility to manage and run the server. This job has provided me with a glimpse at industry web design, and allows me to work at my pace.
 
+###Education
 
+**Eastern Washington University** :::  *2010-Present*
 
+**Tri-Tech Skills Center** :::  *2009-2010*
 
+**Prosser High School** :::  *2006-2010*
+
+###Skills
+
+**Adobe Illustrator** :::  *5/5*
+
+**Adobe Photoshop** :::  *5/5*
+
+**Adobe Indesign** :::  *5/5*
+
+**HTML/CSS** :::  *5/5*
+
+**Javascript/jQuery** :::  *4/5*
